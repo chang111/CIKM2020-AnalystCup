@@ -23,7 +23,7 @@ CIKM2020/
 ### Demo
 
 In this fold, we provide our code in the challenge:
-  * At first, you strongly recommend you read the EDA.ipynb, you can get some insight of this challenge:
+  * At first, we strongly recommend you reading the EDA.ipynb, you can get some insight of this challenge:
   * Then you can run the preprocess.py to get the used feature.
   * Finally you can the prediction by running:
   ```bash
