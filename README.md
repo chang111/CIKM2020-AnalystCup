@@ -1,4 +1,5 @@
 # CIKM 2020 Analyticup COVID-19 Retweet Prediction Challenge
+Our method ranked 5th in phase 2
 
 ## Dependencies
 
@@ -25,8 +26,8 @@ CIKM2020/
 In this fold, we provide our code in the challenge:
   * At first, we strongly recommend you reading the EDA.ipynb, you can get some insight of this challenge:
   * Then you can run the preprocess.py to get the used feature.
-  * Finally you can the prediction by running:
+  * Finally you can get the prediction by running:
   ```bash
   >>python model_average_stack.py
   ``` 
-  * After the test finishes, we can get the prediction result under the fold.
+  * After all the test finishes, you can get the prediction result under the fold. But this progress will be longer.
